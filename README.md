@@ -61,7 +61,7 @@ Future versions could include:
 
 Preview
 
-A preview/screenshot of the project can be added here.
+![Project Screenshot](Card_SS.png)
 
 ⸻
 
